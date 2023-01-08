@@ -1,12 +1,14 @@
 # Dreamy-Bot
 Bot de discord con funciones básicas, nuke y descarga de videos.
-Super ejemplo y super mega sencillo con funciones basicas.
+Super ejemplo y super mega sencillo.
 Eres libre de modificar lo que te de la gana de igual manera siempre la gente roba codigo.
 Espero que te ayude a aprender.
 
 
-CONFIG
+CONFIG.       
+
 Cambiar la línea 27 con tu Token.
+
 Y la linea 25 con tu Prefix.
 
 
