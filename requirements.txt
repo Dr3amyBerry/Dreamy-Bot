@@ -1,0 +1,14 @@
+pyshorteners
+pytube
+google
+discord.py
+requests
+discord
+beautifulsoup4
+aiohttp
+charset_normalizer
+idna
+urllib3
+certifi
+attrs
+multidict
