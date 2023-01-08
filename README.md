@@ -11,7 +11,8 @@ Y la linea 25 con tu Prefix.
 
 
 
-¿COMO INICIAR EL BOT?
+¿COMO INICIAR EL BOT?          
+        
 pip install -r requirements.txt
 
 python bot.py
